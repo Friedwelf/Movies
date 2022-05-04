@@ -2,17 +2,17 @@
 List of movies to watch
 
 # Reddit
-Whiplash (2014)
+- [ ] Whiplash (2014)
 
-Mad Max: Fury Road (2015)
+- [x] Mad Max: Fury Road (2015)
 
-Parasite (2019)
+- [ ] Parasite (2019)
 
-Inception (2010)
+- [x] Inception (2010)
 
-Arrival (2016)
+- [x] Arrival (2016)
 
-Blade Runner 2049 (2017)
+- [x] Blade Runner 2049 (2017)
 
 Spider-Man: Into the Spider-Verse (2018)
 
